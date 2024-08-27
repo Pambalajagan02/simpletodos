@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.listContainer {
+  display: flex;
+  flex-direction: row;
+  
+}
+
+.buttonstyle {
+  background-color: white;
+  border-style: solid;
+  border-color: #ff0b37;
+  color: red;
+  border-radius: 5px;
+  border-width: 2px;
+  margin-left: 20px;
+}

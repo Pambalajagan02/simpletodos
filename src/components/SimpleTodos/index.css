@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.back-container {
+  height: 100vh;
+  background-color: #ffc2a0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inner-Container {
+  background-color: white;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading-style {
+  color: #ff8542;
+}
